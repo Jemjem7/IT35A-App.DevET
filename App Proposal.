@@ -32,7 +32,50 @@ Weather Forecasts: Real-time weather updates to help farmers plan their activiti
 
 *Pest and Disease Alerts: Notifications regarding pest threats and advisory notes on controlling them with low pesticide levels. 
 *Market Price Tracking: Current market price tracking enables farmers to know prices of crops and sell the produce at right time making a good profit. 
-*Sustainable Farming Resources:Resource materials on sustainable farming, namely, the principles of organic farming and soil health.
+*Sustainable Farming Resources:Resource materials on sustainable farming, namely, the principles of organic farming and soil health, to foster sustainability for farming in the long run.
+
+Technical Architecture
+*Platform: This application will be built using Flutter to ensure that it runs on Android and iOS and is, therefore, accessible to the majority.
+*Backend:  Built on Node.js, ensuring that it can handle extremely high numbers of concurrently connected users with real-time data. Data such as farmer profiles, weather data, and market prices would be stored in MongoDB. 
+*Weather Services:  Integrating OpenWeatherMap and Agromet for accurate weather forecasting.
+*Real-Time Notifications:  Alerting users about weather changes, pests, and market prices in real-time using Firebase Cloud Messaging.
 
 
+Research Evidence
+The development of the AgriAid app is supported by scientific research and reputable sources, including:
 
+
+-OpenWeatherMap and Agromet for Accurate Forecasting
+Weather services that provide the reliable data necessary for farming decision-making.
+
+-ScienceDirect Research on Mobile Pest Management
+Research focused on how mobile pest management systems reduce pesticide use and improve crop yields.
+
+-MDPI Study on Digital Innovation in Agriculture
+A study that discusses the role of mobile applications in supporting farmers with weather forecasts, pest management, and market prices.
+
+-FAO Reports on Sustainable Agriculture
+Insights on how sustainable farming practices can improve food security while conserving resources.
+
+-IPCC Climate Change Reports
+Research on the impact of climate change on agriculture and strategies for adaptation.
+
+
+References
+
+https://www.fao.org/sustainable-development-goals-helpdesk/en
+
+https://www.ipcc.ch/srccl/chapter/chapter-5/
+
+https://www.sciencedirect.com/science/article/pii/S2405844023098092
+
+https://www.mdpi.com/2077-0472/15/3/258
+
+https://www.sciencedirect.com/science/article/pii/S1110016821001642
+
+https://eos.com/blog/weather-in-agriculture/
+Research
+
+https://www.mdpi.com/2076-3417/12/10/4902?utm_source=chatgpt.com
+
+https://www.researchgate.net/publication/347946834_A_Review_on_Agricultural_Mobile_Apps_for_Sustainable_Agribusiness_before_and_during_Covid-19_Pandemic
