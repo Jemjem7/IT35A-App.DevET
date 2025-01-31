@@ -36,4 +36,4 @@ JSON Best Practices
 
 * JSON may be applied chiefly in mobile and web APIs that emphasize speed and small data size,
   with high-performance applications being the secondary focus.
-* Use JSON in systems where real time communication is critical....
+* Use JSON in systems where real time communication is critical, such as social networks or cloud services.
