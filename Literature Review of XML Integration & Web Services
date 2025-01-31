@@ -1,12 +1,14 @@
 XML Integration & Web Services: A Comparative Analysis
 
 Overviews
-THis report performs a comparative analysis of XML and JSON, common standards used in web services integration, with particular attention to the strenghts and weaknesses of each. 
-
-
+THis report performs a comparative analysis of XML and JSON, common standards used in web services integration, 
+with particular attention to the strenghts and weaknesses of each. 
+Based on a review of literature, industrial practice, and real-world examples, the paper discusses optimal use cases for each data format, 
+best practices, and considerations concerning performance.
 
 
 Key Differences Between XML and JSON
+
 XML: Strengths & Applications
 * Structure: XML is a strongly structured. Hence, it is suitable for more complex and hierarchical data
   representation. XML is much favored in enterprise systems where data integrity and validation are very important. 
@@ -17,12 +19,17 @@ XML: Strengths & Applications
   particularly in enterprise applications like Salesforce.
 
 JSON: Strengths & Applications
+* Lightweight & Performance: Compact and easy for parsers, JSON has become the choice for REST APIs. 
+  Simplicity is a win for the performance of mobile apps and web applications.
+* Real-World Use: JSON is largely used in modern web platforms such as Facebook, where real-time data transfer should be as quick as possible.
 
 
 
 Best Practices for Using XML and JSON
-XML Best Practices
 
+XML Best Practices
+* XML is usefull for systems that require detailed data structures and strict validation rules.
+* Industry compliance, including the fields such as finance.
 
 
 JSON Best Practices
