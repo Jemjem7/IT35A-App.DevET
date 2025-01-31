@@ -3,9 +3,18 @@ XML Integration & Web Services: A Comparative Analysis
 Overviews
 THis report performs a comparative analysis of XML and JSON, common standards used in web services integration, with particular attention to the strenghts and weaknesses of each. 
 
+
+
+
 Key Differences Between XML and JSON
 XML: Strengths & Applications
-
+* Structure: XML is a strongly structured. Hence, it is suitable for more complex and hierarchical data
+  representation. XML is much favored in enterprise systems where data integrity and validation are very important. 
+* Validation & Security: XML allows validating data using XML Schema and DTD, which is guarantees data correctness. 
+  XML also has very strong securiy features like XML Encryprtion and XML signature, making it suitable for heavy regulation, 
+  such as healthcare and finance.
+* Real-World Use: Quite a significant chunk of XML is devoted to secure and reliable communication in SOAP-based web services, 
+  particularly in enterprise applications like Salesforce.
 
 JSON: Strengths & Applications
 
