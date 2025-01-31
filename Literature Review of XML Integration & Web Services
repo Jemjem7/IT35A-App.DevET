@@ -44,7 +44,12 @@ Conclusions
 XML and JSON serve different purposes in the world of information technology. 
 It refers to XML, and it says these are enterprise-level applications that require a high level of security, validation, and data integrity. 
 JSON refers more to the performance aspects of certain applications, particularly with new web service development and mobile applications.
+Understanding when to use what will maximize system performance for a given use case and keep the correct data exchange protocol established.
 
 References
 
+https://www.academia.edu/11312138/XML_vs_JSON_for_Web_Services 
 
+https://aditya-sunjava.medium.com/json-vs-xml-the-advantages-and-efficiency-in-data-handling-d4b1f42f7874 
+
+https://aws.amazon.com/compare/the-difference-between-json-xml/#:~:text=Ease%20of%20use,size%20for%20faster%20data%20transfer.
