@@ -34,4 +34,6 @@ XML Best Practices
 
 JSON Best Practices
 
-
+* JSON may be applied chiefly in mobile and web APIs that emphasize speed and small data size,
+  with high-performance applications being the secondary focus.
+*
